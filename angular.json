@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "What-The-Buzz"
+  "defaultProject": "What-The-Buzz",
+  "cli": {
+    "analytics": "ef0a2aa6-1a39-4391-a896-3b0484977e15"
+  }
 }

@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+#header {
+  margin-top: 75px;
+}
+#search-input {
+  padding-top: 40px;
+}
+#map {
+  width: 100%;
+  height: calc(100vh - 300px);
+}
